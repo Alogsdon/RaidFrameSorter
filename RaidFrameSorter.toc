@@ -1,0 +1,23 @@
+## Interface: 20504
+## Author: zooood
+## Title: Raid Frame Sorter
+## Version: v1.0-idk
+## Notes: some notes
+## DefaultState: enabled
+## Dependencies:
+## OptionalDeps: 
+## X-Category: 
+## X-Embeds: 
+## X-Curse-Project-ID: 6969696
+## SavedVariables: RaidFrameSorterDB
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+globals.lua
+util.lua
+constants.lua
+Init.lua
+Options.lua
+RaidFrameSorter.lua
