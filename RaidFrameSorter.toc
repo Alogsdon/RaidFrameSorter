@@ -1,7 +1,7 @@
-## Interface: 20504
+## Interface: 30400
 ## Author: zooood
 ## Title: Raid Frame Sorter
-## Version: v1.0-idk
+## Version: v1.0
 ## Notes: some notes
 ## DefaultState: enabled
 ## Dependencies:
