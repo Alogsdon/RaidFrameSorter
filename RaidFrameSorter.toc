@@ -1,7 +1,7 @@
 ## Interface: 30400
 ## Author: zooood
 ## Title: Raid Frame Sorter
-## Version: v1.02
+## Version: v1.03
 ## Notes: Sorts blizzard raid frames as [ 1: player | 2: party1 | 3: party2 |... ]
 ## DefaultState: enabled
 ## Dependencies:
